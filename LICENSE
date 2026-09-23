@@ -1,0 +1,25 @@
+Different files in this repository may be available under different
+licenses, following section 7 of the Space Grade Linux Technical Charter
+(CHARTER.md).
+
+Documentation in this repository, including RFCs, is licensed under the
+Creative Commons Attribution 4.0 International License (charter section
+7.b.iv). See LICENSE.CC-BY-4.0 for the license text.
+
+Code in this repository, if any, is licensed under the MIT License, the
+Project License (charter sections 7.b.i and 7.b.iii). See LICENSE.MIT for
+the license text.
+
+The TSC may approve an alternative license for a contribution on an
+exception basis (charter section 7.c).
+
+CHARTER.md reproduces the Technical Charter of Space Grade Linux a Series
+of LF Projects, LLC, for reference.
+
+Individual files contain an SPDX tag instead of the full license text to
+identify their license (charter section 7.d). For example, the following
+tag indicates that the CC-BY-4.0 license applies to the containing file:
+
+    SPDX-License-Identifier: CC-BY-4.0
+
+SPDX License Identifiers are listed at https://spdx.org/licenses/
