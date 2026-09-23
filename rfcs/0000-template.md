@@ -32,7 +32,7 @@ What is in, and what is explicitly out. Say once, here, that how the work is res
 
 ## Working group
 
-**Name:** the working group's exact name, created by the TSC under Technical Charter section 2.h.iv.
+**Name:** the working group's exact name, created by the TSC under Technical Charter section 2.g.iv.
 
 **Charter:** one paragraph.
 

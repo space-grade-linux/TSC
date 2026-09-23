@@ -46,7 +46,7 @@ Status lives in the `status` field of the RFC frontmatter. The committer who mer
 
 ## How it gets decided
 
-The Technical Steering Committee (TSC) decides. The Space Grade Linux Technical Charter makes the TSC responsible for "approving project or system proposals" (section 2.h.ii) and for "creating sub-committees or working groups to focus on cross-project technical issues and requirements" (section 2.h.iv).
+The Technical Steering Committee (TSC) decides. The [Space Grade Linux Technical Charter](../CHARTER.md) makes the TSC responsible for "approving project or system proposals" (section 2.g.ii) and for "creating sub-committees or working groups to focus on cross-project technical issues and requirements" (section 2.g.iv).
 
 Decisions follow section 3 of the charter. The TSC seeks consensus first. If a vote is needed, each voting member has one vote, quorum is 50 percent of voting members, and a decision needs a majority of those present at a meeting, or a majority of all voting members for an electronic vote. TSC voting members are the committers listed in [meta-sgl MAINTAINERS.md](https://github.com/elisa-tech/meta-sgl/blob/main/MAINTAINERS.md).
 
