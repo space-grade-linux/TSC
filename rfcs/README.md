@@ -27,7 +27,7 @@ flowchart LR
 
 | Status | Meaning |
 | --- | --- |
-| Draft | The PR is open. The comment period runs for at least two TSC meetings or three weeks, whichever is longer. |
+| Draft | The PR is open. The comment period runs for at least two project meetings or three weeks, whichever is longer. |
 | Accepted | The TSC approved the RFC, by consensus or by a vote under section 3 of the Technical Charter. |
 | Rejected | The TSC declined the RFC. It is still merged, with this status, so the reasoning stays on record. |
 | Active | The working group or work the RFC created is running. |
@@ -42,7 +42,7 @@ Status lives in the `status` field of the RFC frontmatter. The committer who mer
 - Propose exact wording with GitHub's suggestion feature so the author can apply it in one click.
 - Committers may push directly to the RFC branch for fixes and agreed edits.
 - If you want a substantially different approach, describe it in a comment first so the author can fold it in, instead of opening a competing pull request.
-- While an RFC is in Draft it is on the agenda of every TSC meeting. Replies on the mailing list count too; the author summarizes them on the pull request.
+- While an RFC is in Draft it is on the agenda of every public project meeting ([minutes](../meeting-minutes/project/)). Replies on the mailing list count too; the author summarizes them on the pull request.
 
 ## How it gets decided
 

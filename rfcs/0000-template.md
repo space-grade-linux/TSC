@@ -20,7 +20,7 @@ Three to five sentences. What is proposed and what decision is requested.
 
 Why now, with citations to minutes, list messages, or external sources.
 
-Every claim about what the community wants cites where it was said: the project's meeting minutes, a mailing list message (`https://lists.elisa.tech/g/space-grade-linux/message/<n>`), a public URL, or a named source cited as plain text when it cannot be linked. If you cannot cite it, write it as a proposal, not as a fact about the community.
+Every claim about what the community wants cites where it was said: the [meeting minutes](../meeting-minutes/), a mailing list message (`https://lists.elisa.tech/g/space-grade-linux/message/<n>`), a public URL, or a named source cited as plain text when it cannot be linked. If you cannot cite it, write it as a proposal, not as a fact about the community.
 
 ## Proposal
 
