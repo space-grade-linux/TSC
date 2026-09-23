@@ -6,6 +6,7 @@ This repository holds the governance of Space Grade Linux (SGL): its Technical C
 
 - [CHARTER.md](CHARTER.md): the Space Grade Linux Technical Charter.
 - [rfcs/](rfcs/): how RFCs work, the RFC template, and the RFCs themselves.
+- [meeting-minutes/](meeting-minutes/): minutes of the monthly public project meeting and of TSC meetings.
 
 ## Technical Steering Committee
 
