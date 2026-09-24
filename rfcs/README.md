@@ -70,4 +70,4 @@ Each RFC pull request adds its own row.
 
 | RFC | Title | Status | Discussion |
 | --- | --- | --- | --- |
-| [0003](0003-hardware-in-the-loop.md) | Hardware-in-the-loop testing in CI | Draft | PR: pending |
+| [0003](0003-hardware-in-the-loop.md) | Hardware-in-the-loop testing in CI | Draft | [#3](https://github.com/space-grade-linux/TSC/pull/3) |
