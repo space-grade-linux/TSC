@@ -70,3 +70,4 @@ Each RFC pull request adds its own row.
 
 | RFC | Title | Status | Discussion |
 | --- | --- | --- | --- |
+| [0005](0005-certification-baseline.md) | Certification baseline for downstream adopters | Draft | PR: pending |
