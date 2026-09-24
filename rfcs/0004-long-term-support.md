@@ -5,7 +5,7 @@ title: Long-term support releases
 status: Draft
 authors: ["Ramón Roche (mrpollo, Linux Foundation / Dronecode Foundation)"]
 created: 2026-09-23
-discussion: pending
+discussion: https://github.com/space-grade-linux/TSC/pull/4
 supersedes: null
 license: CC-BY-4.0
 ---
