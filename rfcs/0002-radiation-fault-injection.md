@@ -5,7 +5,7 @@ title: Radiation fault injection in CI
 status: Draft
 authors: ["Ramón Roche (mrpollo, Linux Foundation / Dronecode Foundation)"]
 created: 2026-09-23
-discussion: pending
+discussion: https://github.com/space-grade-linux/TSC/pull/2
 supersedes: null
 license: CC-BY-4.0
 ---
