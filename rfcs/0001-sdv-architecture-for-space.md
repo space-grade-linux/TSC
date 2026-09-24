@@ -5,7 +5,7 @@ title: Software-defined vehicle architecture for space systems
 status: Draft
 authors: ["Ramón Roche (mrpollo, Linux Foundation / Dronecode Foundation)"]
 created: 2026-09-23
-discussion: pending
+discussion: https://github.com/space-grade-linux/TSC/pull/1
 supersedes: null
 license: CC-BY-4.0
 ---
