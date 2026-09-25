@@ -10,9 +10,9 @@ This repository holds the governance of Space Grade Linux (SGL): its Technical C
 
 ## Technical Steering Committee
 
-The TSC is responsible for all technical oversight of the project (charter section 2.a). Its voting members are the project's committers (section 2.b), currently listed in [meta-sgl MAINTAINERS.md](https://github.com/elisa-tech/meta-sgl/blob/main/MAINTAINERS.md). TSC meetings are intended to be open to the public (section 2.b).
+The TSC is responsible for all technical oversight of the project (charter section 2.a). Its voting members are the project's committers (section 2.b), currently listed in [meta-sgl MAINTAINERS.md](https://github.com/space-grade-linux/meta-sgl/blob/main/MAINTAINERS.md). TSC meetings are intended to be open to the public (section 2.b).
 
-The code lives in [meta-sgl](https://github.com/elisa-tech/meta-sgl). Project discussion happens on the [mailing list](https://lists.elisa.tech/g/space-grade-linux/).
+The code lives in [meta-sgl](https://github.com/space-grade-linux/meta-sgl). Project discussion happens on the [mailing list](https://lists.elisa.tech/g/space-grade-linux/).
 
 ## Contributing
 
