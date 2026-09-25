@@ -12,7 +12,7 @@ Write an RFC when a proposal does at least one of these:
 - creates a working group or changes the scope of an existing one;
 - sets a norm the project will be held to, such as a support window, a certification claim or a reference architecture.
 
-Everything else goes straight to a pull request in [meta-sgl](https://github.com/elisa-tech/meta-sgl). If you are unsure, ask on the [mailing list](https://lists.elisa.tech/g/space-grade-linux/) before writing one.
+Everything else goes straight to a pull request in [meta-sgl](https://github.com/space-grade-linux/meta-sgl). If you are unsure, ask on the [mailing list](https://lists.elisa.tech/g/space-grade-linux/) before writing one.
 
 ## Lifecycle
 
@@ -48,7 +48,7 @@ Status lives in the `status` field of the RFC frontmatter. The committer who mer
 
 The Technical Steering Committee (TSC) decides. The [Space Grade Linux Technical Charter](../CHARTER.md) makes the TSC responsible for "approving project or system proposals" (section 2.g.ii) and for "creating sub-committees or working groups to focus on cross-project technical issues and requirements" (section 2.g.iv).
 
-Decisions follow section 3 of the charter. The TSC seeks consensus first. If a vote is needed, each voting member has one vote, quorum is 50 percent of voting members, and a decision needs a majority of those present at a meeting, or a majority of all voting members for an electronic vote. TSC voting members are the committers listed in [meta-sgl MAINTAINERS.md](https://github.com/elisa-tech/meta-sgl/blob/main/MAINTAINERS.md).
+Decisions follow section 3 of the charter. The TSC seeks consensus first. If a vote is needed, each voting member has one vote, quorum is 50 percent of voting members, and a decision needs a majority of those present at a meeting, or a majority of all voting members for an electronic vote. TSC voting members are the committers listed in [meta-sgl MAINTAINERS.md](https://github.com/space-grade-linux/meta-sgl/blob/main/MAINTAINERS.md).
 
 RFCs do not cover resourcing. Accepting an RFC approves a technical direction only.
 
