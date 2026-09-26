@@ -70,3 +70,4 @@ Each RFC pull request adds its own row.
 
 | RFC | Title | Status | Discussion |
 | --- | --- | --- | --- |
+| [0004](0004-long-term-support.md) | Long-term support releases | Draft | [#4](https://github.com/space-grade-linux/TSC/pull/4) |
