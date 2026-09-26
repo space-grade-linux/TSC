@@ -70,3 +70,4 @@ Each RFC pull request adds its own row.
 
 | RFC | Title | Status | Discussion |
 | --- | --- | --- | --- |
+| [0001](0001-sdv-architecture-for-space.md) | Software-defined vehicle architecture for space systems | Draft | [#1](https://github.com/space-grade-linux/TSC/pull/1) |
