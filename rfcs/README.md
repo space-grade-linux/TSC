@@ -70,3 +70,4 @@ Each RFC pull request adds its own row.
 
 | RFC | Title | Status | Discussion |
 | --- | --- | --- | --- |
+| [0002](0002-radiation-fault-injection.md) | Radiation fault injection in CI | Draft | [#2](https://github.com/space-grade-linux/TSC/pull/2) |
