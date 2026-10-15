@@ -36,7 +36,26 @@ The goal of the group is to advance space technology innovation and competitiven
 
 ## Attended this meeting
 
--
+- Ramón Roche (Dronecode Foundation)
+- Philip Balister (OpenEmbedded)
+- Ivan Perez (KBR @ NASA Ames Research Center)
+- Rob Woolley (Wind River)
+- Geoffrey Biggs (Open Source Robotics Foundation)
+- Jameson Beebe
+- Piotr Skrzypek (European Space Agency)
+- Nicolae Butnari (SES)
+- Johan Bertrand (SES)
+- Yassine Cherni (GoMyRobot)
+- Duc Pham (Tweaklogic)
+- Subhajit Ghosh (Tweaklogic)
+- Brennan Hay (NASA GSFC)
+- Yasushi SHOJI (Space Cubics)
+- Alexey Simonov (TII)
+- Pedro Roque (Caltech)
+- Hans Weggeman (Wind River)
+- Nick Zajerko-McKee (Vorago Technologies)
+- Leonidas Kosmidis (Barcelona Supercomputing Center)
+- Matthias Schmitz
 
 ## Attended recently in the past
 
@@ -49,18 +68,22 @@ The goal of the group is to advance space technology innovation and competitiven
 - Dhruv Sharma
 - Dongshik Won (TelePIX, KAIST)
 - Douglas Landgraf (Red Hat)
+- Duc Pham (Tweaklogic)
 - Eoin Dickson (Microchip)
 - Gabriele Paoloni (Red Hat)
 - Gary Crum (Voyager Technologies)
+- Geoffrey Biggs (Open Source Robotics Foundation)
 - Giacomo Forresu (SES)
 - Hans Weggeman (Wind River)
 - Haoda Wang "Harry" (Columbia University)
 - Hugo Cornelis (Mind OSS)
 - Ivan Perez (KBR @ NASA Ames Research Center)
 - Ivan Pravdin (NVIDIA)
+- Jameson Beebe
 - Jan Vermaete
 - Jan-Simon Moeller (AGL)
 - Joe Speed (Ampere)
+- Johan Bertrand (SES)
 - Juan Solano
 - Kate Stewart (LF)
 - Leonidas Kosmidis (Barcelona Supercomputing Center)
@@ -69,6 +92,7 @@ The goal of the group is to advance space technology innovation and competitiven
 - Manuel Beltran (Boeing)
 - Martin Halle (TUHH)
 - Matt Weber (The Boeing Company)
+- Matthias Schmitz
 - Michael Krasnyk (The Exploration Company)
 - Michael Mahoney (Wind River)
 - Michael Monaghan (NASA GSFC)
@@ -94,6 +118,7 @@ The goal of the group is to advance space technology innovation and competitiven
 - Tony James (Red Hat)
 - Tyler Kwolek
 - Xavier Scholtes (SES)
+- Yassine Cherni (GoMyRobot)
 - Yasushi SHOJI (Space Cubics)
 
 ---
@@ -151,7 +176,12 @@ The five RFCs stay open as Draft pull requests until committers weigh in. This i
 
 **Notes:**
 
--
+- Agreed to start locating working group leads now, without waiting for the TSC decision on the RFCs. Each proposed WG needs a lead:
+  - SDV for Space Architecture WG (RFC-0001)
+  - CI Testing WG (RFC-0002 and RFC-0003)
+  - LTS and Release Engineering WG (RFC-0004)
+  - Assurance and Certification WG (RFC-0005)
+- **Call for WG leads:** if you want to lead one of these working groups, or want to nominate someone, comment on the RFC pull request or reply on the mailing list.
 
 ---
 
@@ -206,7 +236,8 @@ Seats are earned, not bought.
 
 **Notes:**
 
--
+- Agreed that Ramón reaches out to each committer who is a TSC voting member under charter 2.b and asks whether they accept the position.
+- Once they confirm, Ramón schedules the first TSC meeting.
 
 ## Two bodies, two jobs
 
@@ -233,7 +264,7 @@ Founding members signing on: NEC, Frontgrade Gaisler, SpaceCubics. 30+ organizat
 
 **Notes:**
 
--
+- Reminder: the first formation meeting is Thursday, October 22. Organizations joining or considering membership who are not on the invite should email Ramón.
 
 ---
 
@@ -275,7 +306,11 @@ Founding members signing on: NEC, Frontgrade Gaisler, SpaceCubics. 30+ organizat
 
 ## Action Items
 
--
+- All: volunteer or nominate leads for the four proposed WGs, on the RFC pull requests or the mailing list
+- Ramón: announce the call for WG leads on the mailing list
+- Ramón: contact each TSC voting member under charter 2.b to confirm they accept the position, then schedule the first TSC meeting
+- Organizations joining or considering membership: attend the formation meeting on Thursday, October 22 (email Ramón if not on the invite)
+- All: keep commenting on RFC-0001 to RFC-0005 on their pull requests or on the mailing list
 
 Tracked in [GitHub Issues](https://github.com/space-grade-linux/TSC/issues)
 
